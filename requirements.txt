@@ -3,4 +3,3 @@ requests
 matpotlib
 pandas
 biopython
-matplotlib.pyplot
